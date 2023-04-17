@@ -1,0 +1,11 @@
+.o
+.obj
+.pdb
+.ilk
+./bin/Debug/*.exe
+.sln
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
+.vs
+.vs/*
